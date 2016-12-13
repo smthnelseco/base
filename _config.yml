@@ -1,0 +1,12 @@
+# Site settings
+title: Vectornator
+service-short-description: "Design and build tutorials site"
+
+baseurl: "/vn-base" # the subpath of your site, e.g. /blog
+url: "http://smthnelse.co" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+# Exclude this stuff
+exclude: [node_modules, gulpfile.js]
